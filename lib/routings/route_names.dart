@@ -1,0 +1,21 @@
+const String SplashScreenRoute = "splashscreen";
+const String LoginRoute = "login";
+const String HomeRoute = "home";
+const String AnalysisMainRoute = "leadanalysis";
+const String AnalysisDetailedLeadCallRoute = "leadcalls";
+const String CreateProjectsRoute = "create_project";
+const String EmployeeManagementRoute = "emp_management";
+const String AddEmployeeRoute = "add_emp";
+const String AllProjectsRoute = "all_projects";
+const String RegionManagementRoute = "regionmng";
+const String AddTaskRoute = "addtask";
+const String LoadTaskRoute = "loadtask";
+const String NextPhaseRoute = "nextphase";
+const String TaskMonitorRoute = "taskmonitor";
+const String SummaryMonitorRoute = "summarymonitor";
+const String CreateRegionRoute = "createregion";
+const String CurrentTaskRoute = "currenttasks";
+const String ProjectAssignedEmployeeRoute = "projectassignedtoemployee";
+const String MultiProfileRoute = "MultiProfilePage";
+const String AccountManagementRoute = "AccountManagementPage";
+  
